@@ -76,7 +76,7 @@ int minimum(int d, int e, int f){
 int main()
 {
     int counter = 1, min, max, i = 0, num, pilih; 
-    float avg, score_satu, score_dua, score_tiga;
+    float avg, score_satu = 0, score_dua, score_tiga;
 	
 	
     do
